@@ -1,0 +1,2 @@
+H:\实验报告+代码\jnu复试题\成绩排名\x64\Debug\成绩排名.exe
+H:\实验报告+代码\C_practice\成绩排名\x64\Debug\成绩排名.exe

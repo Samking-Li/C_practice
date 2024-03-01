@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3db3da7a-885a-4d96-866e-c608326d8c51": {
+      "ProjectGuid": "3db3da7a-885a-4d96-866e-c608326d8c51",
+      "DisplayName": "求所有满足a+b+c=0且不重复的三元组",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
