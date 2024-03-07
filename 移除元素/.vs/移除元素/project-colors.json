@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "297830d2-8ae1-4522-9db8-b3cf5cf84db3": {
+      "ProjectGuid": "297830d2-8ae1-4522-9db8-b3cf5cf84db3",
+      "DisplayName": "移除元素",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

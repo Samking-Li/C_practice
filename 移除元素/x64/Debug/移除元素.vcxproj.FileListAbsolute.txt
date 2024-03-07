@@ -1,0 +1,2 @@
+H:\实验报告+代码\C_practice\移除元素\x64\Debug\移除元素.exe
+H:\实验报告+代码\C练习\移除元素\x64\Debug\移除元素.exe

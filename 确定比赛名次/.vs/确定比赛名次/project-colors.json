@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a5b4aa2-cf14-4718-9530-3f504908a883": {
+      "ProjectGuid": "5a5b4aa2-cf14-4718-9530-3f504908a883",
+      "DisplayName": "确定比赛名次",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
