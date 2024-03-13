@@ -1,47 +1,22 @@
 #include <stdio.h>
+#include<string.h>
 
 void main()
 {
 	char ch[1000];
 	gets_s(ch);
-	int i;
-	for (i = 0; ch[i] != '\0'; i++)
+	int i, j;
+	i = 0; j = strlen(ch)-1;
+	while (i < j)
 	{
-	}
-	if (i % 2 == 0)
-	{
-		int j = i / 2 - 1;
-		int k = j + 1;
-		while (ch[j] == ch[k])
+		i++;
+		j--;
+		if (ch[i]!=ch[j])
 		{
-			if (j != 0)
-			{
-				j--; k++;
-			}
-			else
-			{
-				printf("yes!");
-				return ;
-			}
+			printf("No!");
+			return ;
 		}
-		printf("no!");
 	}
-	else
-	{
-		int j = i / 2 - 1;
-		int k = j + 2;
-		while (ch[j] == ch[k])
-		{
-			if (j != 0)
-			{
-				j--; k++;
-			}
-			else
-			{
-				printf("yes!");
-				return ;
-			}
-		}
-		printf("no!");
-	}
+	printf("Yes!");
+	return;
 }

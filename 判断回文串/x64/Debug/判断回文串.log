@@ -1,3 +1,4 @@
 ﻿  源.cpp
-H:\实验报告+代码\jnu复试题\判断回文串\源.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  判断回文串.vcxproj -> H:\实验报告+代码\jnu复试题\判断回文串\x64\Debug\判断回文串.exe
+H:\实验报告+代码\C练习\判断回文串\源.cpp(5,1): warning C4326: “main”的返回类型应为“int”而非“void”
+H:\实验报告+代码\C练习\判断回文串\源.cpp(9,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  判断回文串.vcxproj -> H:\实验报告+代码\C练习\判断回文串\x64\Debug\判断回文串.exe
