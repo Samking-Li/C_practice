@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "164becb0-c4f9-4eb8-97a6-9c4597b2cd3e": {
+      "ProjectGuid": "164becb0-c4f9-4eb8-97a6-9c4597b2cd3e",
+      "DisplayName": "找出过半的元素",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
